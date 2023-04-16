@@ -28,5 +28,5 @@ Kwasi is a Data Scientist with a solid background in Geospatial engineering in t
 - [**zindi**](https://zindi.africa/competitions/to-vaccinate-or-not-to-vaccinate) - Python-NLP
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jeafreezy&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=kwasiasomani&show_icons=true)
 
