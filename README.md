@@ -24,7 +24,7 @@ Kwasi is a Data Scientist with a solid background in Geospatial engineering in t
 
 ### Open Source 
 
-- [**Geoserver rest**](https://www.udemy.com/course/spatial-data-science-in-python/learn/lecture/23469410?start=0#overview) - Python & Geospatial
+- [**Udemy**](https://www.udemy.com/course/spatial-data-science-in-python/learn/lecture/23469410?start=0#overview) - Python & Geospatial
 - [**zindi**](https://zindi.africa/competitions/to-vaccinate-or-not-to-vaccinate) - Python-NLP
 
 
