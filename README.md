@@ -1,6 +1,6 @@
 ### Hi there 👋,Nice to meet you
 
-[![GitHub Badge](https://img.shields.io/github/followers/kwasiasomani?style=social)]()
+[![GitHub Badge](https://img.shields.io/github/followers/kwasiasomani?style=social)](https://github.com/kwasiasomani)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Asomani18?style=social)](https://twitter.com/Asomani18)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/kwasi-asomani-61574920b/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1ZMG3xulhdi5eGUULj0v-dE7JXkZc8Su5/view?usp=drivesdk)
