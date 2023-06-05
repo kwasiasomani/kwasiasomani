@@ -9,6 +9,7 @@
 Kwasi is a Data Scientist with a solid background in Geospatial engineering in the form of Remote Sensing and GIS. He loves to volunteer, drive communities and do cool stuffs with technology. He also flourish in a multidisciplinary team. 
 
 ### Core Stacks:
+ - Data Scientist : Deep learning, Fastapi,Machine Learning,SQL and Power Bi
 - GIS & Remote Sensing: QGIS, ArcGIS Pro, Erdas Imagine, Google Earth Engine,etc.
 - Programming languages: SQL, Python,
 - Programming libraries and framework: VScode,jupyter notebook, Pandas,scikit learn,machine learning,matplotlib,seaborn,Scipy.
