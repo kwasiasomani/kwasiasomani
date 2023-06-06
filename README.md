@@ -5,6 +5,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/kwasi-asomani-61574920b/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1R7Lb2XF9i2GhxzwbwB_rIaQZ2qlamobA/view?usp=drivesdk)
 
+![image](https://github.com/kwasiasomani/kwasiasomani/assets/119458164/8d3b2b7d-75ae-449b-9003-ccb16d69c017)
+
 
 Kwasi is a Data Scientist with a solid background in Geospatial engineering in the form of Remote Sensing and GIS. He loves to volunteer, drive communities and do cool stuffs with technology. He also flourish in a multidisciplinary team. 
 
