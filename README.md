@@ -49,14 +49,13 @@
 
 
 
-
 📈 Contribution Graph
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?bg_color=0d1117&color=bf91f3&line=ff6e4a&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kwasiasomani&bg_color=0d1117&color=bf91f3&line=ff6e4a&point=ffffff&area=true&hide_border=true"
     width="100%"
-   
+
   />
 </div>
 
