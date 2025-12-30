@@ -41,7 +41,7 @@
 </td>
 
 <td width="32%" align="center" valign="top">
-  <img src="https://raw.githubusercontent.com/kwasiasomani/kwasiasomani/main/avatar.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/kwasiasomani/kwasiasomani/main/avatar.png" width="190"/>
 </td>
 </tr>
 </table>
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kwasiasomani&theme=tokyo-night&hide_border=true&area=true)
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=kwasiasomani&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
