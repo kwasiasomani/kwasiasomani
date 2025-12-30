@@ -14,9 +14,6 @@
 
 <p>
   
-  <a href="https://dev.to/kwasiasomani">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
   <a href="https://www.linkedin.com/in/kwasi-asomani-61574920b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -59,15 +56,5 @@
 
 </div>
 
----
 
 
-
-
-<div align="center">
-  
-**✨ "Turning data into insights, one pixel at a time" ✨**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
