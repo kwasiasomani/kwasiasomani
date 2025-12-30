@@ -1,32 +1,61 @@
-### Hi there 👋,Nice to meet you
+<h1 align="center">Kwasi Asomani</h1>
+<h3 align="center">Data Scientist • Geospatial Data Engineer</h3>
 
-[![GitHub Badge](https://img.shields.io/github/followers/kwasiasomani?style=social)](https://github.com/kwasiasomani)
-[![Twitter Badge](https://img.shields.io/twitter/follow/Asomani18?style=social)](https://twitter.com/Asomani18)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/kwasi-asomani-61574920b/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1R7Lb2XF9i2GhxzwbwB_rIaQZ2qlamobA/view?usp=drivesdk)
- ![image](https://github.com/kwasiasomani/kwasiasomani/assets/119458164/8d3b2b7d-75ae-449b-9003-ccb16d69c017)
-Kwasi is a Data Scientist with a solid background in Geospatial engineering in the form of Remote Sensing and GIS. He loves to volunteer, drive communities and do cool stuffs with technology. He also flourish in a multidisciplinary team. 
+<p align="center">
+  Exploring data, space, and real-world impact.
+</p>
 
-### Core Stacks:
- - Data Scientist : Deep learning, Fastapi,Machine Learning,SQL and Power Bi
-- GIS & Remote Sensing: QGIS, ArcGIS Pro, Erdas Imagine, Google Earth Engine,etc.
-- Programming languages: SQL, Python,
-- Programming libraries and framework: VScode,jupyter notebook, Pandas,scikit learn,machine learning,matplotlib,seaborn,Scipy.
-- Databases:  MySQL.
-- Cloud, CMD & Containers:  Docker and Huggingface.
-- Collaborating & Business Tools:  GitHub, PowerBI, MS Excel, PowerPoint, Canva, Microsoft Teams.
+<p align="center">
+  <a href="https://github.com/kwasiasomani">
+    <img src="https://img.shields.io/github/followers/kwasiasomani?style=social" />
+  </a>
+  <a href="https://twitter.com/Asomani18">
+    <img src="https://img.shields.io/twitter/follow/Asomani18?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/kwasi-asomani-61574920b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
+  </a>
+  <a href="https://drive.google.com/file/d/1R7Lb2XF9i2GhxzwbwB_rIaQZ2qlamobA/view">
+    <img src="https://img.shields.io/badge/CV-View-critical" />
+  </a>
+</p>
 
+---
 
-### Blogs
+## About Me 👋
 
-- [**Medium**](https://medium.com/@kwasiasomani85)
+I’m a **Data Scientist** with a background in **Geomatics Engineering, Remote Sensing, and GIS**.  
+I’m passionate about **exploring data**, uncovering patterns, and building **end-to-end data science and geospatial data engineering pipelines** — from data acquisition to modeling and insight.
 
+I enjoy collaborating across disciplines and using data to support **sustainable, informed decision-making**.
 
-### Open Source 
+---
 
-- [**Udemy**](https://www.udemy.com/course/spatial-data-science-in-python/learn/lecture/23469410?start=0#overview) - Python & Geospatial
-- [**zindi**](https://zindi.africa/competitions/to-vaccinate-or-not-to-vaccinate) - Python-NLP
+## What I Work With ⚙️
 
+- **Data Science & ML:** Python, Machine Learning, Deep Learning  
+- **Geospatial:** GIS, Remote Sensing, Google Earth Engine  
+- **Data & Infrastructure:** SQL, MySQL, Docker, Hugging Face  
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kwasiasomani&show_icons=true)
+---
 
+## Writing ✍🏽
+- 📖 Medium: https://medium.com/@kwasiasomani85
+
+---
+
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kwasiasomani&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kwasiasomani&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Data tells the story — space gives it meaning.”</i>
+</p>
