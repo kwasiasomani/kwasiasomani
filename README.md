@@ -28,41 +28,6 @@ I'm a **Data Scientist** specializing in **Geospatial Analysis** with a strong f
 
 ---
 
-## 💼 Core Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Data Science & ML
-- Python (Pandas, GeoPandas, NumPy)
-- Scikit-learn, Streamlit
-- Machine Learning
-- Deep Learning
-
-### 🗺️ Geospatial
-- GIS & Remote Sensing
-- Google Earth Engine
-- Spatial Analysis
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Data & Infrastructure
-- SQL (MySQL, PostgreSQL)
-- Docker
-- Hugging Face
-
-### ☁️ Cloud & DevOps
-- Amazon Web Services (AWS)
-- CI/CD: GitHub Actions
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
